@@ -21,7 +21,8 @@
 <a href="https://linkedin.com/in/raj mahajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj mahajan" height="30" width="40" /></a>
 <a href="https://instagram.com/raj_mahajan_960" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raj_mahajan_960" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/raj krishan mahajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="raj krishan mahajan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/raj mahajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raj mahajan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rajuo7
+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raj mahajan" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rajmahajan853" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rajmahajan853" height="30" width="40" /></a>
 <a href="https://discord.gg/raju#0794" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="raju#0794" height="30" width="40" /></a>
 </p>
