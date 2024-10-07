@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/raj krishna mahajan" target="blank"><img src="https://img.shields.io/twitter/follow/raj krishna mahajan?logo=twitter&style=for-the-badge" alt="raj krishna mahajan" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 Full-stack developer **MERN Stack**
 
 - 💬 Ask me about **DSA , Frontend development**
 
