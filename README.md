@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Raj Mahajan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full-stack developer from India</h3>
 <img align ="right" alt="coding" width="400" src="https://camo.githubusercontent.com/27c3c96f9f2a8155f00d24e97d6a1984556a10aa3f7a5d27ec0e4c3100adca24/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj22001&label=Profile%20views&color=0e75b6&style=flat" alt="raj22001" /> </p>
@@ -9,7 +9,7 @@
 
 - 🌱 Full-stack developer **MERN Stack**
 
-- 💬 Ask me about **DSA , Frontend development**
+- 💬 Ask me about **DSA , MERN Stack**
 
 - 📫 How to reach me **rajmahajan853@gmail.com**
 
